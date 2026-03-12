@@ -1,10 +1,10 @@
-SQL Data Analytics Project
+# SQL Data Analytics Project
 
 This project demonstrates how SQL is used by data analysts to explore data, generate business insights, and answer real-world analytical questions.
 
 The project uses a sales dataset structured in a star schema with a fact table and dimension tables. Through a series of SQL scripts, the project walks through common analytics tasks performed by business intelligence and data analysts.
 
-Project Objectives
+## Project Objectives
 
 The goal of this project is to practice and demonstrate core SQL skills used in data analytics, including:
 
@@ -78,7 +78,7 @@ Topics Covered
 
 This project demonstrates SQL techniques commonly used in analytics:
 
-SQL fundamentals
+## SQL fundamentals
 
 Aggregations
 
@@ -116,21 +116,6 @@ Microsoft SQL Server
 
 SQL
 
-Learning Outcomes
-
-By completing this project, you will learn how to:
-
-Work with relational datasets
-
-Write analytical SQL queries
-
-Use joins to combine multiple tables
-
-Calculate key performance indicators
-
-Perform time-based analysis
-
-Apply window functions for advanced analytics
 
 Author
 
