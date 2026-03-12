@@ -74,28 +74,6 @@ country
 
 gender
 
-## Project Structure
-sql-data-analytics-project
-│
-├── datasets
-│   ├── gold.fact_sales.csv
-│   ├── gold.dim_products.csv
-│   └── gold.dim_customers.csv
-│
-├── scripts
-│   ├── 01_database_setup.sql
-│   ├── 02_data_exploration.sql
-│   ├── 03_basic_metrics.sql
-│   ├── 04_product_analysis.sql
-│   ├── 05_customer_analysis.sql
-│   ├── 06_time_analysis.sql
-│   ├── 07_advanced_analytics.sql
-│   ├── 08_customer_segmentation.sql
-│   ├── 09_product_performance.sql
-│   └── 10_business_questions.sql
-│
-└── README.md
-
 Topics Covered
 
 This project demonstrates SQL techniques commonly used in analytics:
