@@ -74,7 +74,7 @@ country
 
 gender
 
-## Topics Severed
+## Topics Covered
 This project demonstrates SQL techniques commonly used in analytics:
 
 ## SQL fundamentals
