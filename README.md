@@ -20,7 +20,7 @@ Segmenting customers
 
 Ranking products by performance
 
-Dataset Structure
+## Dataset Structure
 
 The dataset follows a star schema commonly used in analytics systems.
 
@@ -74,8 +74,7 @@ country
 
 gender
 
-Topics Covered
-
+## Topics Severed
 This project demonstrates SQL techniques commonly used in analytics:
 
 ## SQL fundamentals
@@ -94,7 +93,7 @@ Customer segmentation
 
 Product ranking
 
-Example Business Questions Answered
+## Example Business Questions Answered
 
 Some of the questions explored in this project include:
 
@@ -110,13 +109,13 @@ How does sales revenue change over time?
 
 Which customers can be classified as high-value customers?
 
-Technologies Used
+## Technologies Used
 
 Microsoft SQL Server
 
 SQL
 
 
-Author
+## Author
 
 Data Analytics Project created for practicing SQL skills and demonstrating data analysis techniques.
